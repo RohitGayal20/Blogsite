@@ -2,16 +2,6 @@
 
 Welcome to **Blogsite** – a simple, lightweight, and fully responsive blog site built using pure HTML and CSS. This project is focused on delivering a clean and intuitive design that adapts perfectly to various devices, ensuring an optimal user experience on mobile, tablet, and desktop alike.
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Responsive Design](#responsive-design)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -22,12 +12,13 @@ Welcome to **Blogsite** – a simple, lightweight, and fully responsive blog sit
 - **Responsive Layout:** Effortlessly adjusts to screen sizes ranging from mobile devices to large desktop monitors.
 - **Clean Design:** A minimal and modern aesthetic that emphasizes content clarity and easy navigation.
 - **Lightweight:** Pure HTML and CSS implementation means no external heavy frameworks, keeping it fast and efficient.
+## Built with
+.HTML5
+.CSS3
+## Usage
+After cloning, you can easily customize the content and design by editing the HTML and CSS files. Use your favorite code editor to make changes. The responsive layout is perfect for testing modifications across various devices using your browser's developer tools.
+## Responsive Design
+The site leverages CSS media queries to ensure a seamless viewing experience on any device. Try resizing your browser window or testing on different devices to see how the layout adjusts smoothly and maintains its visual integrity.
 
-## Installation
 
-To get started with **Blogsite** on your local machine, follow these steps:
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Rohitgayal20/Blogsite.git
